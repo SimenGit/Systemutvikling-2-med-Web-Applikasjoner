@@ -2,5 +2,7 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Oving 3 - prosjekt" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/flow-example" vcs="Git" />
   </component>
 </project>
